@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sriram
 - 👀 I’m interested in Eda tools, Circuit Design and Compilers
-- 🌱 I’m currently learning python,ocaml and verilog
+- 🌱 I’m currently learning python,tcl and verilog
 - 💞️ I’m looking to collaborate on creating better opensource eda tools
 - 📫 How to reach me sriram.nimmala@icloud.com
 - 😄 Pronouns: He/Him
